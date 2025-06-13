@@ -10,7 +10,7 @@ This is my officail first API Project and personal backend project that I built 
 
 ## Breif Overview
 - It allows to carry out basic CRUD(Create, Read, Update, Delete) operations
--  Using this Api you  bookmark containing the the title, author and the description of the Book
+-  Using this API you  bookmark containing the the title, author and the description of the Book
 -  The user has to first fill in their deltails(username and passowrd)
 -  They user is also given the leverage to carry out CRUD operations on the book properties except from the author property
   
