@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
 </p>
@@ -96,3 +97,22 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
+=======
+#                                                                        BookMarkApi
+This is my officail first API Project and personal backend project that I built using NestJs as the framework, typeScript and MongoDB as the database.
+## Tools
+- NestJs
+- JavaScript
+- TypeScript
+- Thundercleint(For testing The endpoints)
+- MongoDb for the dataBase
+- npm as the package manager
+
+## Breif Overview
+- It allows to carry out basic CRUD(Create, Read, Update, Delete) operations
+-  Using this API you  bookmark containing the the title, author and the description of the Book
+-  The user has to first fill in their deltails(username and passowrd)
+-  They user is also given the leverage to carry out CRUD operations on the book properties except from the author property
+  
+  
+>>>>>>> abfe37add29189453a99bc9361bbe25a69026677
